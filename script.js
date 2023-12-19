@@ -34,5 +34,5 @@ async function convertCSVtoXLSM(csvFileName, xlsmFileName) {
   }
 }
 
-// Replace 'input.csv' with the name of your CSV file and 'output.xlsm' with the desired output filename.
+
 convertCSVtoXLSM('input.csv', 'output_file.xlsm');
