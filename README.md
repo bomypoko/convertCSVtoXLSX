@@ -1,1 +1,1 @@
-npm install xlsx csvtoxlsx
+npm install xlsx csvtojson
